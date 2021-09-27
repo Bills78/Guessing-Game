@@ -1,2 +1,2 @@
 # Guessing-Game
-It's a guess the number guessing game. 
+Simple game, you pick a number and have other people guess it until they get it right.
